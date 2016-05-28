@@ -1,0 +1,10 @@
+{
+  "name": "riskve",
+  "description": "Cve notifier",
+  "version": "1.0.1",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
